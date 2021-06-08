@@ -4,6 +4,7 @@ class Male:
     values = []
     basic_info = {}
     common_passions = set()
+    #those are used to store the parameters
 
     
 
